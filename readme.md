@@ -10,14 +10,15 @@
 4. Provides mechanism for hardcoding docker image setup.
 
 5. Provides integration with external systems (i.e. java repos, image repos, npm repos…)
-Easily Extensible.
-   
-6. Templates may be easily created.
 
-7. Extensive tracing system provided for
+6. Easily Extensible.
+   
+7. Templates may be easily created.
+
+8. Extensive tracing system provided for
 ease of debugging.
    
-8. Dynamically modifiable
+9. Dynamically modifiable
 ```
  * templating system modifications can be easily ported to existing projects
  * each project has method pUPDATE to pull modifications
