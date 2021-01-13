@@ -1,4 +1,6 @@
-Designed to simplify development
+# Docker Templating System (DTS)
+
+##Designed to simplify development
 automatically names docker artifacts
 simplifies docker commands
 keeps project/system and global values ordered
