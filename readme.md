@@ -1,10 +1,19 @@
 # Docker Templating System (DTS)
+Designed to simplify the process of creating and running containers
 
-## Designed to simplify the process of creating and running containers 
+Clone your project from <https://github.com/itkunst/base_tmpl>
+```
+1. Specify your system name, and template name.
+2. Run init
+3. Run pBUILD
+4. Run pGO
+```
+
+## Knowledge of Docker not required - knowledge of typing also not required
 ```
 * Automatic naming system for artifacts
 * Simplifies docker commands.
-* Keeps project/system and global values ordered.
+* Keeps project/system and global values ordered - and predefined
 * Provides mechanism for hardcoding docker image setup.
 * Provides integration with external systems (i.e. nexus, kubernetes, openshift...)
 ```
@@ -17,7 +26,7 @@
 ## Dynamically modifiable
 ```
  * templating system modifications can be easily ported to existing projects
- * each project has method pUPDATE to pull modifications
+ * each project has ability to pull modifications
 ```
 ## Allows one to easily create and spin up a local system
 ```
