@@ -11,14 +11,14 @@
 
 5. Provides integration with external systems (i.e. java repos, image repos, npm repos…)
 
-6. Easily Extensible.
-   
-7. Templates may be easily created.
+## Easily Extensible.
+```   
+1. Templates may be easily created.
 
-8. Extensive tracing system provided for
+2. Extensive tracing system provided for
 ease of debugging.
-   
-9. Dynamically modifiable
+```   
+## Dynamically modifiable
 ```
  * templating system modifications can be easily ported to existing projects
  * each project has method pUPDATE to pull modifications
