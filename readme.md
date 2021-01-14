@@ -1,7 +1,8 @@
 # Docker Templating System (DTS)
 Designed to simplify the process of creating and running containers
 
-Clone your project from <https://github.com/itkunst/base_tmpl>
+Clone your project from 
+<https://github.com/itkunst/base_tmpl>
 ```
 1. Specify your system name, and template name.
 2. Run init
@@ -40,3 +41,4 @@ Clone your project from <https://github.com/itkunst/base_tmpl>
 ```
 
 ## Please refer to DTS.pdf
+<https://github.com/itkunst/tmpl_docs/blob/master/DTS.pdf>
