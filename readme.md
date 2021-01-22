@@ -4,10 +4,13 @@ Designed to simplify the process of creating and running containers
 Clone your project from 
 <https://github.com/itkunst/base_tmpl>
 ```
-1. Specify your system name, and template name.
+1. Specify your system name, project name, and template name.
 2. Run init
-3. Run pBUILD
-4. Run pGO
+3. Run source path.txt (if linux)
+4. Run pBUILD
+5. Run pGO
+
+6. Run pVIEW to verify
 ```
 
 ## Knowledge of Docker not required - knowledge of typing also not required
