@@ -6,7 +6,7 @@ Clone your project from
 
 For Linux
 ```
-1. Specify your system name, project name, and template name in 'settings.sh' file.
+1. Specify your system name, project name, and template name in 'settings.sh'.
 2. Run './init.sh'
 3. Run 'source path.txt' 
 4. Modify /project/pENV_MOD.sh as necessary
