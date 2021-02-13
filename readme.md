@@ -2,15 +2,18 @@
 Designed to simplify the process of creating and running containers
 
 Clone your project from 
-<https://github.com/itkunst/base_tmpl>
-```
-1. Specify your system name, project name, and template name.
-2. Run init
-3. Run source path.txt (if linux)
-4. Run pBUILD
-5. Run pGO
+<https://github.com/itkunst/base_proj>
 
-6. Run pVIEW to verify
+For Linux
+```
+1. Specify your system name, project name, and template name in 'settings.sh' file.
+2. Run './init.sh'
+3. Run 'source path.txt' 
+4. Modify /project/pENV_MOD.sh as necessary
+4. Run 'pBUILD.sh'
+5. Run 'pGO.sh'
+
+6. Run 'pVIEW.sh' to verify
 ```
 
 ## Knowledge of Docker not required - knowledge of typing also not required
