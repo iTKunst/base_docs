@@ -15,6 +15,16 @@ For Linux
 
 6. Run 'pVIEW.sh' to verify
 ```
+For Windows
+```
+1. Specify your system name, project name, and template name in 'settings.cmd'.
+2. Run 'init'
+3. odify /project/pENV_MOD.cmd as necessary
+4. Run 'pBUILD'
+5. Run 'pGO'
+
+6. Run 'pVIEW' to verify
+```
 
 ## Knowledge of Docker not required - knowledge of typing also not required
 ```
