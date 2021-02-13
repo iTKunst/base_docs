@@ -57,4 +57,4 @@ For Windows
 ```
 
 ## Please refer to DTS.pdf
-<https://github.com/itkunst/tmpl_docs/blob/master/DTS.pdf>
+<https://github.com/itkunst/base_docs/blob/master/DTS.pdf>
